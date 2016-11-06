@@ -12,3 +12,5 @@ def ask_quit(prompt, retries=4, complaint='Yes or no, please!'):
 
 
 #se usa llamando a ask_quit('Lo que quieras que diga')
+
+ask_quit('IS it ok? ')
